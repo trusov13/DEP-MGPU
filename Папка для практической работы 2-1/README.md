@@ -4,7 +4,7 @@
 ### Отчет в .pdf.
 - [Отчёт_Трусов.pdf](https://github.com/trusov13/DEP-MGPU/blob/main/Папка%20для%20практической%20работы%202-1/Отчёт_Трусов.pdf) - файл с отчётом
 
-### Папка dbt-проектом
+### Папка с dbt-проектом
 - [superstore_dwh](https://github.com/trusov13/DEP-MGPU/tree/main/Папка%20для%20практической%20работы%202-1/superstore_dwh)
 
 
