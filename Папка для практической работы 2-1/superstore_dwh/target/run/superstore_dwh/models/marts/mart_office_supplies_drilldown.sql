@@ -1,0 +1,21 @@
+
+  
+    
+
+  create  table "superstore"."dw_test"."mart_office_supplies_drilldown__dbt_tmp"
+  
+  
+    as
+  
+  (
+    -- models/marts/mart_office_supplies_drilldown.sql
+SELECT
+    p.sub_category,
+    SUM(f.profit) AS total_profit
+FROM "superstore"."dw_test"."sales_fact" AS f
+LEFT JOIN "superstore"."dw_test"."product_dim" AS p ON f.prod_id = p.prod_id
+WHERE p.category = 'Office Supplies'
+GROUP BY p.sub_category
+ORDER BY total_profit DESC
+  );
+  
