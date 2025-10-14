@@ -6,6 +6,6 @@
 ### Папку с dbt-проектом
 
 ### Папка dbt-проектом
-- [superstore_dwh](https://github.com/trusov13/DEP-MGPU/tree/main/Папка%20для%20практической%20работы%202-1/superstore_dwh) - superstore_dwh
+- [superstore_dwh](https://github.com/trusov13/DEP-MGPU/tree/main/Папка%20для%20практической%20работы%202-1/superstore_dwh)
 
 
