@@ -1,0 +1,646 @@
+sales_month,category,segment,total_sales,total_profit,profit_margin,number_of_orders,year,month,sales_month_name,profitability_category
+2016-01-01,Furniture,Consumer,6257.29,805.04,0.13,16,2016,1,January 2016,Средняя
+2016-01-01,Office Supplies,Consumer,5463.29,1056.24,0.19,25,2016,1,January 2016,Средняя
+2016-01-01,Office Supplies,Corporate,5265.1,1015.45,0.19,23,2016,1,January 2016,Средняя
+2016-01-01,Office Supplies,Home Office,3725.6,684.5,0.18,19,2016,1,January 2016,Средняя
+2016-01-01,Furniture,Home Office,3343.56,338.32,0.1,7,2016,1,January 2016,Средняя
+2016-01-01,Technology,Consumer,3143.29,855.77,0.27,7,2016,1,January 2016,Высокая
+2016-01-01,Technology,Home Office,3143.29,855.77,0.27,7,2016,1,January 2016,Высокая
+2016-01-01,Furniture,Corporate,3058.95,-12.2,-0.0,14,2016,1,January 2016,Убыточная
+2016-01-01,Technology,Corporate,2443.36,673.79,0.28,6,2016,1,January 2016,Высокая
+2016-02-01,Furniture,Corporate,1900.55,135.91,0.07,6,2016,2,February 2016,Низкая
+2016-02-01,Furniture,Consumer,1885.99,130.38,0.07,5,2016,2,February 2016,Низкая
+2016-02-01,Furniture,Home Office,1875.39,147.24,0.08,5,2016,2,February 2016,Низкая
+2016-02-01,Technology,Consumer,1608.51,565.53,0.35,7,2016,2,February 2016,Высокая
+2016-02-01,Office Supplies,Consumer,1082.45,182.05,0.17,22,2016,2,February 2016,Средняя
+2016-02-01,Office Supplies,Corporate,1052.59,185.85,0.18,19,2016,2,February 2016,Средняя
+2016-02-01,Technology,Corporate,905.16,256.05,0.28,5,2016,2,February 2016,Высокая
+2016-02-01,Office Supplies,Home Office,826.2,135.81,0.16,16,2016,2,February 2016,Средняя
+2016-02-01,Technology,Home Office,582.54,141.98,0.24,3,2016,2,February 2016,Высокая
+2016-03-01,Technology,Home Office,29262.99,-408.44,-0.01,13,2016,3,March 2016,Убыточная
+2016-03-01,Furniture,Corporate,12807.06,-1265.05,-0.1,23,2016,3,March 2016,Убыточная
+2016-03-01,Furniture,Consumer,12495.47,-464.9,-0.04,26,2016,3,March 2016,Убыточная
+2016-03-01,Furniture,Home Office,9374.98,-621.32,-0.07,19,2016,3,March 2016,Убыточная
+2016-03-01,Office Supplies,Consumer,8368.74,1161.0,0.14,54,2016,3,March 2016,Средняя
+2016-03-01,Technology,Corporate,7313.89,1945.54,0.27,13,2016,3,March 2016,Высокая
+2016-03-01,Office Supplies,Corporate,6794.58,674.5,0.1,50,2016,3,March 2016,Низкая
+2016-03-01,Office Supplies,Home Office,5887.4,954.81,0.16,43,2016,3,March 2016,Средняя
+2016-03-01,Technology,Consumer,4674.18,1095.77,0.23,15,2016,3,March 2016,Высокая
+2016-04-01,Office Supplies,Consumer,10637.21,856.41,0.08,51,2016,4,April 2016,Низкая
+2016-04-01,Office Supplies,Corporate,9768.46,620.48,0.06,46,2016,4,April 2016,Низкая
+2016-04-01,Technology,Consumer,8915.65,1824.51,0.2,21,2016,4,April 2016,Высокая
+2016-04-01,Furniture,Consumer,8020.98,581.03,0.07,21,2016,4,April 2016,Низкая
+2016-04-01,Furniture,Home Office,7956.71,579.12,0.07,17,2016,4,April 2016,Низкая
+2016-04-01,Technology,Home Office,7365.86,1584.84,0.22,18,2016,4,April 2016,Высокая
+2016-04-01,Furniture,Corporate,7272.07,746.05,0.1,17,2016,4,April 2016,Средняя
+2016-04-01,Technology,Corporate,6823.12,1590.05,0.23,18,2016,4,April 2016,Высокая
+2016-04-01,Office Supplies,Home Office,4355.66,215.96,0.05,39,2016,4,April 2016,Низкая
+2016-05-01,Technology,Consumer,10217.85,1514.41,0.15,20,2016,5,May 2016,Средняя
+2016-05-01,Technology,Home Office,8566.36,1094.82,0.13,18,2016,5,May 2016,Средняя
+2016-05-01,Technology,Corporate,8249.6,1175.82,0.14,20,2016,5,May 2016,Средняя
+2016-05-01,Office Supplies,Consumer,7172.96,1552.39,0.22,45,2016,5,May 2016,Высокая
+2016-05-01,Furniture,Consumer,7057.78,-343.18,-0.05,22,2016,5,May 2016,Убыточная
+2016-05-01,Office Supplies,Corporate,7017.94,1486.08,0.21,43,2016,5,May 2016,Высокая
+2016-05-01,Furniture,Corporate,5740.33,-225.98,-0.04,20,2016,5,May 2016,Убыточная
+2016-05-01,Office Supplies,Home Office,3117.59,-162.81,-0.05,34,2016,5,May 2016,Убыточная
+2016-05-01,Furniture,Home Office,2796.13,267.88,0.1,13,2016,5,May 2016,Низкая
+2016-06-01,Furniture,Consumer,13206.13,596.32,0.05,25,2016,6,June 2016,Низкая
+2016-06-01,Office Supplies,Consumer,12942.67,3024.43,0.23,50,2016,6,June 2016,Высокая
+2016-06-01,Office Supplies,Home Office,10031.86,2387.67,0.24,37,2016,6,June 2016,Высокая
+2016-06-01,Furniture,Home Office,9068.54,801.57,0.09,16,2016,6,June 2016,Низкая
+2016-06-01,Office Supplies,Corporate,8831.7,1867.13,0.21,46,2016,6,June 2016,Высокая
+2016-06-01,Furniture,Corporate,8553.95,-336.81,-0.04,21,2016,6,June 2016,Убыточная
+2016-06-01,Technology,Consumer,8172.0,1328.98,0.16,16,2016,6,June 2016,Средняя
+2016-06-01,Technology,Corporate,4671.62,747.75,0.16,12,2016,6,June 2016,Средняя
+2016-06-01,Technology,Home Office,3143.71,609.59,0.19,9,2016,6,June 2016,Средняя
+2016-07-01,Office Supplies,Consumer,15148.9,-2451.27,-0.16,50,2016,7,July 2016,Убыточная
+2016-07-01,Office Supplies,Corporate,12764.68,1177.71,0.09,49,2016,7,July 2016,Низкая
+2016-07-01,Furniture,Consumer,10477.64,350.99,0.03,24,2016,7,July 2016,Низкая
+2016-07-01,Furniture,Corporate,10149.6,340.46,0.03,21,2016,7,July 2016,Низкая
+2016-07-01,Furniture,Home Office,9795.0,314.73,0.03,20,2016,7,July 2016,Низкая
+2016-07-01,Technology,Consumer,8306.51,1304.08,0.16,23,2016,7,July 2016,Средняя
+2016-07-01,Technology,Corporate,7188.03,1289.84,0.18,21,2016,7,July 2016,Средняя
+2016-07-01,Office Supplies,Home Office,5549.43,-3252.53,-0.59,39,2016,7,July 2016,Убыточная
+2016-07-01,Technology,Home Office,3799.57,644.1,0.17,12,2016,7,July 2016,Средняя
+2016-08-01,Office Supplies,Consumer,11172.09,2704.18,0.24,56,2016,8,August 2016,Высокая
+2016-08-01,Technology,Consumer,10120.84,1822.04,0.18,23,2016,8,August 2016,Средняя
+2016-08-01,Office Supplies,Corporate,8924.66,2497.68,0.28,53,2016,8,August 2016,Высокая
+2016-08-01,Technology,Corporate,7955.8,1505.74,0.19,22,2016,8,August 2016,Средняя
+2016-08-01,Furniture,Consumer,7320.35,663.47,0.09,23,2016,8,August 2016,Низкая
+2016-08-01,Furniture,Corporate,6591.86,458.11,0.07,20,2016,8,August 2016,Низкая
+2016-08-01,Technology,Home Office,5934.9,1156.37,0.19,17,2016,8,August 2016,Средняя
+2016-08-01,Office Supplies,Home Office,4521.6,985.46,0.22,40,2016,8,August 2016,Высокая
+2016-08-01,Furniture,Home Office,3453.54,834.8,0.24,13,2016,8,August 2016,Высокая
+2016-09-01,Office Supplies,Consumer,27650.14,6178.38,0.22,99,2016,9,September 2016,Высокая
+2016-09-01,Technology,Consumer,27457.9,143.23,0.01,32,2016,9,September 2016,Низкая
+2016-09-01,Office Supplies,Corporate,26871.21,5961.92,0.22,86,2016,9,September 2016,Высокая
+2016-09-01,Furniture,Consumer,24065.67,1977.03,0.08,48,2016,9,September 2016,Низкая
+2016-09-01,Office Supplies,Home Office,22863.56,5358.58,0.23,83,2016,9,September 2016,Высокая
+2016-09-01,Furniture,Corporate,21231.44,2382.61,0.11,42,2016,9,September 2016,Средняя
+2016-09-01,Furniture,Home Office,20398.81,1450.93,0.07,39,2016,9,September 2016,Низкая
+2016-09-01,Technology,Corporate,19348.79,-1558.51,-0.08,22,2016,9,September 2016,Убыточная
+2016-09-01,Technology,Home Office,18549.72,554.12,0.03,23,2016,9,September 2016,Низкая
+2016-10-01,Furniture,Consumer,12319.63,253.2,0.02,28,2016,10,October 2016,Низкая
+2016-10-01,Technology,Consumer,10543.07,1718.77,0.16,26,2016,10,October 2016,Средняя
+2016-10-01,Technology,Corporate,10535.19,2028.23,0.19,21,2016,10,October 2016,Средняя
+2016-10-01,Furniture,Corporate,7771.98,-804.57,-0.1,26,2016,10,October 2016,Убыточная
+2016-10-01,Technology,Home Office,6875.93,1408.14,0.2,18,2016,10,October 2016,Высокая
+2016-10-01,Office Supplies,Consumer,6798.38,1035.97,0.15,55,2016,10,October 2016,Средняя
+2016-10-01,Office Supplies,Corporate,6797.48,973.04,0.14,52,2016,10,October 2016,Средняя
+2016-10-01,Furniture,Home Office,6783.16,637.36,0.09,22,2016,10,October 2016,Низкая
+2016-10-01,Office Supplies,Home Office,5129.37,959.59,0.19,42,2016,10,October 2016,Средняя
+2016-11-01,Technology,Consumer,28691.45,3466.32,0.12,51,2016,11,November 2016,Средняя
+2016-11-01,Office Supplies,Consumer,26252.2,4156.57,0.16,115,2016,11,November 2016,Средняя
+2016-11-01,Furniture,Consumer,25508.61,-357.65,-0.01,52,2016,11,November 2016,Убыточная
+2016-11-01,Office Supplies,Corporate,24122.19,4367.84,0.18,107,2016,11,November 2016,Средняя
+2016-11-01,Technology,Corporate,22012.49,3313.62,0.15,41,2016,11,November 2016,Средняя
+2016-11-01,Technology,Home Office,20879.58,4522.05,0.22,30,2016,11,November 2016,Высокая
+2016-11-01,Office Supplies,Home Office,19241.5,3859.32,0.2,95,2016,11,November 2016,Высокая
+2016-11-01,Furniture,Corporate,15264.3,-171.23,-0.01,45,2016,11,November 2016,Убыточная
+2016-11-01,Furniture,Home Office,11322.47,248.08,0.02,39,2016,11,November 2016,Низкая
+2016-12-01,Furniture,Consumer,30880.57,2062.13,0.07,55,2016,12,December 2016,Низкая
+2016-12-01,Furniture,Corporate,29190.85,2236.83,0.08,52,2016,12,December 2016,Низкая
+2016-12-01,Technology,Consumer,23075.0,5665.6,0.25,40,2016,12,December 2016,Высокая
+2016-12-01,Furniture,Home Office,20825.87,1324.11,0.06,42,2016,12,December 2016,Низкая
+2016-12-01,Office Supplies,Corporate,17671.78,2049.3,0.12,93,2016,12,December 2016,Средняя
+2016-12-01,Office Supplies,Consumer,17497.23,2099.81,0.12,101,2016,12,December 2016,Средняя
+2016-12-01,Technology,Corporate,13853.7,3197.83,0.23,32,2016,12,December 2016,Высокая
+2016-12-01,Office Supplies,Home Office,13032.35,1451.8,0.11,75,2016,12,December 2016,Средняя
+2016-12-01,Technology,Home Office,10491.62,2553.07,0.24,24,2016,12,December 2016,Высокая
+2017-01-01,Furniture,Consumer,11932.16,-2945.0,-0.25,13,2017,1,January 2017,Убыточная
+2017-01-01,Furniture,Corporate,10387.54,-2576.66,-0.25,12,2017,1,January 2017,Убыточная
+2017-01-01,Furniture,Home Office,10233.26,-2914.95,-0.28,9,2017,1,January 2017,Убыточная
+2017-01-01,Technology,Consumer,4491.86,-837.92,-0.19,5,2017,1,January 2017,Убыточная
+2017-01-01,Technology,Corporate,4469.98,-820.45,-0.18,5,2017,1,January 2017,Убыточная
+2017-01-01,Office Supplies,Consumer,1808.78,589.9,0.33,20,2017,1,January 2017,Высокая
+2017-01-01,Office Supplies,Corporate,1708.06,552.96,0.32,18,2017,1,January 2017,Высокая
+2017-01-01,Office Supplies,Home Office,1589.28,513.62,0.32,15,2017,1,January 2017,Высокая
+2017-01-01,Technology,Home Office,1417.41,-128.99,-0.09,4,2017,1,January 2017,Убыточная
+2017-02-01,Office Supplies,Consumer,5452.83,1852.7,0.34,24,2017,2,February 2017,Высокая
+2017-02-01,Office Supplies,Home Office,4857.18,1654.57,0.34,20,2017,2,February 2017,Высокая
+2017-02-01,Office Supplies,Corporate,4591.91,1612.6,0.35,23,2017,2,February 2017,Высокая
+2017-02-01,Technology,Consumer,3448.97,604.85,0.18,11,2017,2,February 2017,Средняя
+2017-02-01,Furniture,Corporate,3134.37,394.89,0.13,9,2017,2,February 2017,Средняя
+2017-02-01,Furniture,Consumer,2640.45,423.12,0.16,8,2017,2,February 2017,Средняя
+2017-02-01,Technology,Corporate,1996.12,309.23,0.15,6,2017,2,February 2017,Средняя
+2017-02-01,Technology,Home Office,1831.62,295.73,0.16,6,2017,2,February 2017,Средняя
+2017-02-01,Furniture,Home Office,1234.71,115.59,0.09,7,2017,2,February 2017,Низкая
+2017-03-01,Office Supplies,Corporate,15547.92,5916.27,0.38,54,2017,3,March 2017,Высокая
+2017-03-01,Office Supplies,Consumer,14819.02,5122.54,0.35,56,2017,3,March 2017,Высокая
+2017-03-01,Office Supplies,Home Office,13822.51,4511.53,0.33,41,2017,3,March 2017,Высокая
+2017-03-01,Furniture,Consumer,12883.39,1518.99,0.12,23,2017,3,March 2017,Средняя
+2017-03-01,Technology,Consumer,12031.88,3109.18,0.26,25,2017,3,March 2017,Высокая
+2017-03-01,Furniture,Corporate,10776.45,1305.87,0.12,21,2017,3,March 2017,Средняя
+2017-03-01,Technology,Corporate,9955.93,2752.68,0.28,25,2017,3,March 2017,Высокая
+2017-03-01,Furniture,Home Office,9768.58,1146.43,0.12,18,2017,3,March 2017,Средняя
+2017-03-01,Technology,Home Office,4453.75,789.92,0.18,16,2017,3,March 2017,Средняя
+2017-04-01,Technology,Consumer,12798.61,2220.95,0.17,28,2017,4,April 2017,Средняя
+2017-04-01,Office Supplies,Consumer,12502.24,1486.13,0.12,58,2017,4,April 2017,Средняя
+2017-04-01,Office Supplies,Corporate,11863.96,1293.37,0.11,53,2017,4,April 2017,Средняя
+2017-04-01,Office Supplies,Home Office,11196.0,1670.13,0.15,47,2017,4,April 2017,Средняя
+2017-04-01,Furniture,Consumer,10688.81,323.43,0.03,23,2017,4,April 2017,Низкая
+2017-04-01,Furniture,Corporate,9775.02,572.53,0.06,21,2017,4,April 2017,Низкая
+2017-04-01,Technology,Corporate,9193.46,1561.89,0.17,23,2017,4,April 2017,Средняя
+2017-04-01,Technology,Home Office,6233.9,761.11,0.12,20,2017,4,April 2017,Средняя
+2017-04-01,Furniture,Home Office,6086.86,-71.27,-0.01,14,2017,4,April 2017,Убыточная
+2017-05-01,Technology,Consumer,11731.01,2001.6,0.17,19,2017,5,May 2017,Средняя
+2017-05-01,Furniture,Consumer,9374.95,900.58,0.1,24,2017,5,May 2017,Низкая
+2017-05-01,Office Supplies,Consumer,9190.08,1758.68,0.19,56,2017,5,May 2017,Средняя
+2017-05-01,Technology,Corporate,8559.54,989.04,0.12,17,2017,5,May 2017,Средняя
+2017-05-01,Office Supplies,Corporate,8390.84,1700.03,0.2,52,2017,5,May 2017,Высокая
+2017-05-01,Office Supplies,Home Office,8320.13,1596.04,0.19,48,2017,5,May 2017,Средняя
+2017-05-01,Furniture,Home Office,6798.13,713.4,0.1,18,2017,5,May 2017,Средняя
+2017-05-01,Furniture,Corporate,5378.28,5.47,0.0,21,2017,5,May 2017,Низкая
+2017-05-01,Technology,Home Office,3968.06,578.33,0.15,15,2017,5,May 2017,Средняя
+2017-06-01,Office Supplies,Consumer,10415.8,2122.75,0.2,48,2017,6,June 2017,Высокая
+2017-06-01,Office Supplies,Home Office,10007.79,2174.16,0.22,42,2017,6,June 2017,Высокая
+2017-06-01,Office Supplies,Corporate,9609.26,2045.65,0.21,45,2017,6,June 2017,Высокая
+2017-06-01,Furniture,Consumer,7734.28,-410.9,-0.05,24,2017,6,June 2017,Убыточная
+2017-06-01,Furniture,Corporate,7230.8,-359.79,-0.05,22,2017,6,June 2017,Убыточная
+2017-06-01,Technology,Consumer,6435.37,1552.83,0.24,24,2017,6,June 2017,Высокая
+2017-06-01,Furniture,Home Office,5289.69,-214.91,-0.04,17,2017,6,June 2017,Убыточная
+2017-06-01,Technology,Corporate,3971.1,1168.53,0.29,17,2017,6,June 2017,Высокая
+2017-06-01,Technology,Home Office,3680.39,922.0,0.25,20,2017,6,June 2017,Высокая
+2017-07-01,Furniture,Consumer,14096.43,-325.28,-0.02,30,2017,7,July 2017,Убыточная
+2017-07-01,Furniture,Corporate,10828.9,246.82,0.02,25,2017,7,July 2017,Низкая
+2017-07-01,Technology,Consumer,10370.97,2499.96,0.24,20,2017,7,July 2017,Высокая
+2017-07-01,Furniture,Home Office,8313.65,-255.57,-0.03,23,2017,7,July 2017,Убыточная
+2017-07-01,Technology,Home Office,7972.19,2117.64,0.27,15,2017,7,July 2017,Высокая
+2017-07-01,Technology,Corporate,7852.27,2051.95,0.26,16,2017,7,July 2017,Высокая
+2017-07-01,Office Supplies,Consumer,4731.11,1117.55,0.24,51,2017,7,July 2017,Высокая
+2017-07-01,Office Supplies,Corporate,4352.17,961.29,0.22,47,2017,7,July 2017,Высокая
+2017-07-01,Office Supplies,Home Office,3619.94,674.34,0.19,40,2017,7,July 2017,Средняя
+2017-08-01,Technology,Consumer,14789.69,3405.04,0.23,20,2017,8,August 2017,Высокая
+2017-08-01,Technology,Corporate,14608.9,3410.93,0.23,21,2017,8,August 2017,Высокая
+2017-08-01,Office Supplies,Consumer,11799.86,2237.89,0.19,56,2017,8,August 2017,Средняя
+2017-08-01,Office Supplies,Home Office,10698.12,1896.11,0.18,48,2017,8,August 2017,Средняя
+2017-08-01,Office Supplies,Corporate,10595.73,1832.72,0.17,53,2017,8,August 2017,Средняя
+2017-08-01,Technology,Home Office,9872.82,1722.97,0.17,18,2017,8,August 2017,Средняя
+2017-08-01,Furniture,Consumer,9118.45,-526.44,-0.06,26,2017,8,August 2017,Убыточная
+2017-08-01,Furniture,Corporate,8413.71,-399.3,-0.05,24,2017,8,August 2017,Убыточная
+2017-08-01,Furniture,Home Office,6165.92,289.42,0.05,19,2017,8,August 2017,Низкая
+2017-09-01,Furniture,Consumer,27663.41,1399.12,0.05,48,2017,9,September 2017,Низкая
+2017-09-01,Furniture,Corporate,23215.15,1377.3,0.06,46,2017,9,September 2017,Низкая
+2017-09-01,Technology,Consumer,19755.06,4795.03,0.24,41,2017,9,September 2017,Высокая
+2017-09-01,Office Supplies,Consumer,19579.03,2231.49,0.11,105,2017,9,September 2017,Средняя
+2017-09-01,Office Supplies,Corporate,16992.34,1938.46,0.11,102,2017,9,September 2017,Средняя
+2017-09-01,Technology,Corporate,16715.8,3874.1,0.23,36,2017,9,September 2017,Высокая
+2017-09-01,Furniture,Home Office,16078.2,-224.35,-0.01,36,2017,9,September 2017,Убыточная
+2017-09-01,Technology,Home Office,14063.86,3795.71,0.27,26,2017,9,September 2017,Высокая
+2017-09-01,Office Supplies,Home Office,12428.61,1355.47,0.11,85,2017,9,September 2017,Средняя
+2017-10-01,Furniture,Consumer,12436.97,-589.16,-0.05,28,2017,10,October 2017,Убыточная
+2017-10-01,Furniture,Corporate,10989.67,-588.32,-0.05,26,2017,10,October 2017,Убыточная
+2017-10-01,Technology,Consumer,10348.96,2253.25,0.22,33,2017,10,October 2017,Высокая
+2017-10-01,Technology,Corporate,9432.76,2268.69,0.24,29,2017,10,October 2017,Высокая
+2017-10-01,Office Supplies,Consumer,8595.13,1052.13,0.12,60,2017,10,October 2017,Средняя
+2017-10-01,Office Supplies,Corporate,8564.09,1070.3,0.12,60,2017,10,October 2017,Средняя
+2017-10-01,Office Supplies,Home Office,7263.0,703.92,0.1,51,2017,10,October 2017,Низкая
+2017-10-01,Technology,Home Office,7147.36,1713.99,0.24,26,2017,10,October 2017,Высокая
+2017-10-01,Furniture,Home Office,6510.79,-158.3,-0.02,14,2017,10,October 2017,Убыточная
+2017-11-01,Furniture,Consumer,30587.09,2892.76,0.09,66,2017,11,November 2017,Низкая
+2017-11-01,Furniture,Corporate,27065.44,2957.81,0.11,57,2017,11,November 2017,Средняя
+2017-11-01,Technology,Corporate,20871.57,6295.13,0.3,39,2017,11,November 2017,Высокая
+2017-11-01,Office Supplies,Consumer,20726.04,2650.33,0.13,114,2017,11,November 2017,Средняя
+2017-11-01,Furniture,Home Office,20306.68,2288.97,0.11,38,2017,11,November 2017,Средняя
+2017-11-01,Office Supplies,Corporate,19609.41,2406.14,0.12,101,2017,11,November 2017,Средняя
+2017-11-01,Technology,Home Office,18753.75,5854.21,0.31,33,2017,11,November 2017,Высокая
+2017-11-01,Technology,Consumer,16633.56,3348.15,0.2,47,2017,11,November 2017,Высокая
+2017-11-01,Office Supplies,Home Office,14365.89,2918.95,0.2,84,2017,11,November 2017,Высокая
+2017-12-01,Technology,Consumer,40287.0,6546.01,0.16,57,2017,12,December 2017,Средняя
+2017-12-01,Technology,Corporate,37437.62,6333.67,0.17,50,2017,12,December 2017,Средняя
+2017-12-01,Technology,Home Office,26616.26,6007.78,0.23,40,2017,12,December 2017,Высокая
+2017-12-01,Furniture,Consumer,21790.59,848.92,0.04,48,2017,12,December 2017,Низкая
+2017-12-01,Furniture,Corporate,20446.02,910.99,0.04,46,2017,12,December 2017,Низкая
+2017-12-01,Furniture,Home Office,19583.19,477.45,0.02,42,2017,12,December 2017,Низкая
+2017-12-01,Office Supplies,Consumer,15971.46,2548.57,0.16,121,2017,12,December 2017,Средняя
+2017-12-01,Office Supplies,Corporate,15286.59,2553.87,0.17,109,2017,12,December 2017,Средняя
+2017-12-01,Office Supplies,Home Office,13272.71,1851.62,0.14,97,2017,12,December 2017,Средняя
+2018-01-01,Furniture,Consumer,8419.54,289.85,0.03,18,2018,1,January 2018,Низкая
+2018-01-01,Furniture,Corporate,5981.13,839.55,0.14,14,2018,1,January 2018,Средняя
+2018-01-01,Technology,Consumer,5760.06,916.07,0.16,15,2018,1,January 2018,Средняя
+2018-01-01,Furniture,Home Office,5724.79,936.95,0.16,11,2018,1,January 2018,Средняя
+2018-01-01,Office Supplies,Corporate,5278.15,1491.46,0.28,30,2018,1,January 2018,Высокая
+2018-01-01,Office Supplies,Consumer,5234.17,1453.45,0.28,30,2018,1,January 2018,Высокая
+2018-01-01,Office Supplies,Home Office,4935.96,1393.95,0.28,23,2018,1,January 2018,Высокая
+2018-01-01,Technology,Corporate,4333.69,820.25,0.19,13,2018,1,January 2018,Средняя
+2018-01-01,Technology,Home Office,3852.32,652.39,0.17,12,2018,1,January 2018,Средняя
+2018-02-01,Technology,Consumer,12258.91,3297.54,0.27,13,2018,2,February 2018,Высокая
+2018-02-01,Office Supplies,Consumer,6758.43,1581.29,0.23,30,2018,2,February 2018,Высокая
+2018-02-01,Office Supplies,Home Office,6348.45,1428.1,0.22,20,2018,2,February 2018,Высокая
+2018-02-01,Office Supplies,Corporate,5081.85,999.91,0.2,27,2018,2,February 2018,Средняя
+2018-02-01,Furniture,Consumer,3925.55,377.04,0.1,17,2018,2,February 2018,Низкая
+2018-02-01,Technology,Corporate,3472.72,482.34,0.14,12,2018,2,February 2018,Средняя
+2018-02-01,Furniture,Corporate,3364.56,419.57,0.12,16,2018,2,February 2018,Средняя
+2018-02-01,Technology,Home Office,2903.86,423.12,0.15,8,2018,2,February 2018,Средняя
+2018-02-01,Furniture,Home Office,2066.94,25.57,0.01,10,2018,2,February 2018,Низкая
+2018-03-01,Technology,Consumer,24059.28,3421.69,0.14,30,2018,3,March 2018,Средняя
+2018-03-01,Office Supplies,Consumer,16977.67,1071.51,0.06,56,2018,3,March 2018,Низкая
+2018-03-01,Office Supplies,Corporate,15672.0,694.82,0.04,51,2018,3,March 2018,Низкая
+2018-03-01,Technology,Home Office,15302.89,-156.87,-0.01,21,2018,3,March 2018,Убыточная
+2018-03-01,Technology,Corporate,13797.0,629.02,0.05,27,2018,3,March 2018,Низкая
+2018-03-01,Furniture,Consumer,12977.61,-490.16,-0.04,37,2018,3,March 2018,Убыточная
+2018-03-01,Furniture,Corporate,12210.56,-59.29,-0.0,34,2018,3,March 2018,Убыточная
+2018-03-01,Furniture,Home Office,8483.89,-140.7,-0.02,27,2018,3,March 2018,Убыточная
+2018-03-01,Office Supplies,Home Office,6319.44,1305.97,0.21,40,2018,3,March 2018,Высокая
+2018-04-01,Furniture,Consumer,13212.09,364.83,0.03,33,2018,4,April 2018,Низкая
+2018-04-01,Technology,Corporate,12903.53,3261.13,0.25,16,2018,4,April 2018,Высокая
+2018-04-01,Furniture,Corporate,12648.38,355.19,0.03,31,2018,4,April 2018,Низкая
+2018-04-01,Office Supplies,Consumer,10722.0,-1104.99,-0.1,65,2018,4,April 2018,Убыточная
+2018-04-01,Furniture,Home Office,9410.15,-91.86,-0.01,23,2018,4,April 2018,Убыточная
+2018-04-01,Office Supplies,Corporate,8973.89,712.75,0.08,61,2018,4,April 2018,Низкая
+2018-04-01,Office Supplies,Home Office,7794.27,-1712.78,-0.22,51,2018,4,April 2018,Убыточная
+2018-04-01,Technology,Consumer,5790.57,1347.48,0.23,20,2018,4,April 2018,Высокая
+2018-04-01,Technology,Home Office,4514.06,1125.79,0.25,13,2018,4,April 2018,Высокая
+2018-05-01,Technology,Consumer,28928.55,4332.34,0.15,31,2018,5,May 2018,Средняя
+2018-05-01,Technology,Corporate,28226.24,4590.89,0.16,30,2018,5,May 2018,Средняя
+2018-05-01,Technology,Home Office,19249.28,2671.92,0.14,23,2018,5,May 2018,Средняя
+2018-05-01,Furniture,Consumer,15111.6,1821.58,0.12,37,2018,5,May 2018,Средняя
+2018-05-01,Furniture,Corporate,13385.11,1686.78,0.13,35,2018,5,May 2018,Средняя
+2018-05-01,Furniture,Home Office,12994.45,1566.31,0.12,30,2018,5,May 2018,Средняя
+2018-05-01,Office Supplies,Corporate,12623.86,2326.4,0.18,78,2018,5,May 2018,Средняя
+2018-05-01,Office Supplies,Consumer,12506.71,2180.55,0.17,81,2018,5,May 2018,Средняя
+2018-05-01,Office Supplies,Home Office,10667.42,1973.01,0.18,63,2018,5,May 2018,Средняя
+2018-06-01,Technology,Consumer,15259.08,2344.21,0.15,27,2018,6,June 2018,Средняя
+2018-06-01,Furniture,Consumer,13175.77,-101.53,-0.01,29,2018,6,June 2018,Убыточная
+2018-06-01,Technology,Home Office,12205.54,1707.11,0.14,20,2018,6,June 2018,Средняя
+2018-06-01,Office Supplies,Consumer,11361.67,2658.36,0.23,65,2018,6,June 2018,Высокая
+2018-06-01,Office Supplies,Corporate,10779.66,2475.56,0.23,61,2018,6,June 2018,Высокая
+2018-06-01,Furniture,Corporate,9959.75,476.72,0.05,24,2018,6,June 2018,Низкая
+2018-06-01,Furniture,Home Office,9124.38,-98.28,-0.01,22,2018,6,June 2018,Убыточная
+2018-06-01,Office Supplies,Home Office,8871.91,2078.06,0.23,54,2018,6,June 2018,Высокая
+2018-06-01,Technology,Corporate,6355.95,1372.65,0.22,20,2018,6,June 2018,Высокая
+2018-07-01,Furniture,Consumer,13324.28,1120.75,0.08,29,2018,7,July 2018,Низкая
+2018-07-01,Furniture,Corporate,12719.96,1036.54,0.08,27,2018,7,July 2018,Низкая
+2018-07-01,Office Supplies,Consumer,12255.46,1101.19,0.09,73,2018,7,July 2018,Низкая
+2018-07-01,Office Supplies,Corporate,12233.23,972.49,0.08,68,2018,7,July 2018,Низкая
+2018-07-01,Technology,Consumer,12232.61,2436.57,0.2,25,2018,7,July 2018,Средняя
+2018-07-01,Technology,Corporate,12073.76,2224.62,0.18,28,2018,7,July 2018,Средняя
+2018-07-01,Office Supplies,Home Office,10195.26,493.28,0.05,54,2018,7,July 2018,Низкая
+2018-07-01,Furniture,Home Office,5958.39,406.15,0.07,21,2018,7,July 2018,Низкая
+2018-07-01,Technology,Home Office,5727.66,1309.94,0.23,17,2018,7,July 2018,Высокая
+2018-08-01,Furniture,Consumer,11799.0,-380.07,-0.03,24,2018,8,August 2018,Убыточная
+2018-08-01,Furniture,Corporate,10771.17,-203.14,-0.02,23,2018,8,August 2018,Убыточная
+2018-08-01,Technology,Consumer,9919.59,877.59,0.09,31,2018,8,August 2018,Низкая
+2018-08-01,Office Supplies,Consumer,8704.37,1565.79,0.18,63,2018,8,August 2018,Средняя
+2018-08-01,Office Supplies,Corporate,8509.96,1498.66,0.18,61,2018,8,August 2018,Средняя
+2018-08-01,Technology,Corporate,8506.57,774.36,0.09,27,2018,8,August 2018,Низкая
+2018-08-01,Furniture,Home Office,6935.87,-613.72,-0.09,19,2018,8,August 2018,Убыточная
+2018-08-01,Office Supplies,Home Office,6621.09,1141.97,0.17,52,2018,8,August 2018,Средняя
+2018-08-01,Technology,Home Office,6205.04,386.53,0.06,22,2018,8,August 2018,Низкая
+2018-09-01,Technology,Consumer,28187.67,5910.83,0.21,46,2018,9,September 2018,Высокая
+2018-09-01,Furniture,Consumer,27607.03,778.34,0.03,68,2018,9,September 2018,Низкая
+2018-09-01,Furniture,Corporate,26615.8,948.3,0.04,65,2018,9,September 2018,Низкая
+2018-09-01,Office Supplies,Consumer,23459.67,3785.57,0.16,144,2018,9,September 2018,Средняя
+2018-09-01,Technology,Corporate,23406.63,5231.25,0.22,40,2018,9,September 2018,Высокая
+2018-09-01,Office Supplies,Home Office,19236.08,3034.11,0.16,110,2018,9,September 2018,Средняя
+2018-09-01,Furniture,Home Office,16835.36,763.28,0.05,48,2018,9,September 2018,Низкая
+2018-09-01,Office Supplies,Corporate,16240.79,1771.73,0.11,132,2018,9,September 2018,Средняя
+2018-09-01,Technology,Home Office,14019.36,2277.16,0.16,26,2018,9,September 2018,Средняя
+2018-10-01,Technology,Consumer,30909.18,12666.9,0.41,26,2018,10,October 2018,Высокая
+2018-10-01,Technology,Corporate,29827.26,12318.42,0.41,22,2018,10,October 2018,Высокая
+2018-10-01,Technology,Home Office,28965.34,11527.54,0.4,19,2018,10,October 2018,Высокая
+2018-10-01,Office Supplies,Consumer,16421.93,4728.06,0.29,69,2018,10,October 2018,Высокая
+2018-10-01,Office Supplies,Corporate,15568.09,4664.55,0.3,64,2018,10,October 2018,Высокая
+2018-10-01,Office Supplies,Home Office,14422.39,4285.22,0.3,58,2018,10,October 2018,Высокая
+2018-10-01,Furniture,Consumer,11976.54,58.37,0.0,43,2018,10,October 2018,Низкая
+2018-10-01,Furniture,Corporate,10520.45,-341.9,-0.03,38,2018,10,October 2018,Убыточная
+2018-10-01,Furniture,Home Office,7038.21,61.36,0.01,31,2018,10,October 2018,Низкая
+2018-11-01,Furniture,Consumer,32186.59,710.54,0.02,63,2018,11,November 2018,Низкая
+2018-11-01,Furniture,Corporate,27476.26,528.75,0.02,62,2018,11,November 2018,Низкая
+2018-11-01,Technology,Consumer,22077.06,-3661.45,-0.17,65,2018,11,November 2018,Убыточная
+2018-11-01,Office Supplies,Consumer,21722.04,5047.24,0.23,122,2018,11,November 2018,Высокая
+2018-11-01,Office Supplies,Corporate,21027.0,4789.14,0.23,118,2018,11,November 2018,Высокая
+2018-11-01,Technology,Corporate,19141.98,-2705.52,-0.14,51,2018,11,November 2018,Убыточная
+2018-11-01,Office Supplies,Home Office,16769.19,3621.58,0.22,98,2018,11,November 2018,Высокая
+2018-11-01,Furniture,Home Office,16697.39,537.2,0.03,45,2018,11,November 2018,Низкая
+2018-11-01,Technology,Home Office,11485.96,1788.65,0.16,41,2018,11,November 2018,Средняя
+2018-12-01,Office Supplies,Corporate,36561.92,11322.52,0.31,120,2018,12,December 2018,Высокая
+2018-12-01,Furniture,Consumer,36398.22,3097.92,0.09,66,2018,12,December 2018,Низкая
+2018-12-01,Office Supplies,Consumer,35170.08,10764.05,0.31,123,2018,12,December 2018,Высокая
+2018-12-01,Furniture,Corporate,32461.59,3456.18,0.11,64,2018,12,December 2018,Средняя
+2018-12-01,Office Supplies,Home Office,29539.38,9238.86,0.31,100,2018,12,December 2018,Высокая
+2018-12-01,Technology,Corporate,22347.78,4027.49,0.18,38,2018,12,December 2018,Средняя
+2018-12-01,Technology,Consumer,21449.68,4102.77,0.19,45,2018,12,December 2018,Средняя
+2018-12-01,Furniture,Home Office,20553.64,1966.17,0.1,48,2018,12,December 2018,Низкая
+2018-12-01,Technology,Home Office,16030.39,2464.91,0.15,34,2018,12,December 2018,Средняя
+2019-01-01,Office Supplies,Consumer,21561.06,3037.48,0.14,54,2019,1,January 2019,Средняя
+2019-01-01,Technology,Consumer,16837.04,3829.44,0.23,25,2019,1,January 2019,Высокая
+2019-01-01,Technology,Home Office,15957.05,4051.05,0.25,18,2019,1,January 2019,Высокая
+2019-01-01,Office Supplies,Home Office,15367.14,2751.96,0.18,44,2019,1,January 2019,Средняя
+2019-01-01,Office Supplies,Corporate,14527.68,1.7,0.0,51,2019,1,January 2019,Низкая
+2019-01-01,Technology,Corporate,8335.22,1373.09,0.16,18,2019,1,January 2019,Средняя
+2019-01-01,Furniture,Corporate,5186.4,220.07,0.04,17,2019,1,January 2019,Низкая
+2019-01-01,Furniture,Consumer,4948.33,-151.34,-0.03,18,2019,1,January 2019,Убыточная
+2019-01-01,Furniture,Home Office,2652.28,-101.85,-0.04,13,2019,1,January 2019,Убыточная
+2019-02-01,Office Supplies,Corporate,7751.66,583.91,0.08,39,2019,2,February 2019,Низкая
+2019-02-01,Office Supplies,Consumer,7751.64,604.28,0.08,41,2019,2,February 2019,Низкая
+2019-02-01,Furniture,Consumer,6981.56,-181.19,-0.03,21,2019,2,February 2019,Убыточная
+2019-02-01,Office Supplies,Home Office,6310.39,811.55,0.13,30,2019,2,February 2019,Средняя
+2019-02-01,Furniture,Corporate,6049.79,-215.21,-0.04,18,2019,2,February 2019,Убыточная
+2019-02-01,Technology,Consumer,5787.04,820.09,0.14,19,2019,2,February 2019,Средняя
+2019-02-01,Furniture,Home Office,5773.66,-316.95,-0.05,18,2019,2,February 2019,Убыточная
+2019-02-01,Technology,Home Office,5475.72,791.86,0.14,15,2019,2,February 2019,Средняя
+2019-02-01,Technology,Corporate,4430.45,590.37,0.13,14,2019,2,February 2019,Средняя
+2019-03-01,Technology,Consumer,33043.83,11006.55,0.33,42,2019,3,March 2019,Высокая
+2019-03-01,Technology,Corporate,30812.47,11064.96,0.36,40,2019,3,March 2019,Высокая
+2019-03-01,Technology,Home Office,29216.28,10074.11,0.34,35,2019,3,March 2019,Высокая
+2019-03-01,Office Supplies,Consumer,14909.99,2619.02,0.18,84,2019,3,March 2019,Средняя
+2019-03-01,Office Supplies,Corporate,14688.85,2437.29,0.17,80,2019,3,March 2019,Средняя
+2019-03-01,Furniture,Consumer,10893.44,1000.85,0.09,31,2019,3,March 2019,Низкая
+2019-03-01,Office Supplies,Home Office,10251.62,2150.76,0.21,66,2019,3,March 2019,Высокая
+2019-03-01,Furniture,Corporate,9209.52,1146.78,0.12,27,2019,3,March 2019,Средняя
+2019-03-01,Furniture,Home Office,5789.95,475.53,0.08,22,2019,3,March 2019,Низкая
+2019-04-01,Office Supplies,Consumer,14380.93,3163.57,0.22,86,2019,4,April 2019,Высокая
+2019-04-01,Office Supplies,Corporate,12967.1,2915.64,0.22,79,2019,4,April 2019,Высокая
+2019-04-01,Technology,Consumer,12882.34,-2680.82,-0.21,25,2019,4,April 2019,Убыточная
+2019-04-01,Technology,Corporate,12867.44,-2626.48,-0.2,23,2019,4,April 2019,Убыточная
+2019-04-01,Office Supplies,Home Office,10606.88,1696.15,0.16,72,2019,4,April 2019,Средняя
+2019-04-01,Furniture,Consumer,9013.76,177.2,0.02,35,2019,4,April 2019,Низкая
+2019-04-01,Furniture,Corporate,8213.23,158.45,0.02,34,2019,4,April 2019,Низкая
+2019-04-01,Furniture,Home Office,6991.26,80.4,0.01,28,2019,4,April 2019,Низкая
+2019-04-01,Technology,Home Office,6149.16,-2940.64,-0.48,18,2019,4,April 2019,Убыточная
+2019-05-01,Furniture,Consumer,16805.04,-155.11,-0.01,43,2019,5,May 2019,Убыточная
+2019-05-01,Furniture,Corporate,16399.84,-83.13,-0.01,41,2019,5,May 2019,Убыточная
+2019-05-01,Office Supplies,Consumer,14449.45,3556.02,0.25,89,2019,5,May 2019,Высокая
+2019-05-01,Office Supplies,Corporate,14141.75,3435.48,0.24,82,2019,5,May 2019,Высокая
+2019-05-01,Technology,Consumer,14127.37,3420.15,0.24,37,2019,5,May 2019,Высокая
+2019-05-01,Technology,Corporate,12338.5,2745.49,0.22,32,2019,5,May 2019,Высокая
+2019-05-01,Furniture,Home Office,12160.96,-277.76,-0.02,29,2019,5,May 2019,Убыточная
+2019-05-01,Technology,Home Office,11174.35,2836.42,0.25,25,2019,5,May 2019,Высокая
+2019-05-01,Office Supplies,Home Office,8741.38,2279.41,0.26,59,2019,5,May 2019,Высокая
+2019-06-01,Furniture,Consumer,19263.25,919.66,0.05,43,2019,6,June 2019,Низкая
+2019-06-01,Office Supplies,Consumer,17730.93,3368.61,0.19,101,2019,6,June 2019,Средняя
+2019-06-01,Furniture,Corporate,17691.68,824.98,0.05,38,2019,6,June 2019,Низкая
+2019-06-01,Office Supplies,Corporate,16700.19,3140.91,0.19,94,2019,6,June 2019,Средняя
+2019-06-01,Technology,Consumer,15203.9,2531.34,0.17,37,2019,6,June 2019,Средняя
+2019-06-01,Office Supplies,Home Office,14797.68,3083.67,0.21,78,2019,6,June 2019,Высокая
+2019-06-01,Technology,Corporate,12372.1,2031.63,0.16,30,2019,6,June 2019,Средняя
+2019-06-01,Furniture,Home Office,10956.18,489.97,0.04,30,2019,6,June 2019,Низкая
+2019-06-01,Technology,Home Office,10430.02,2825.31,0.27,26,2019,6,June 2019,Высокая
+2019-07-01,Technology,Consumer,25747.79,5013.38,0.19,42,2019,7,July 2019,Средняя
+2019-07-01,Technology,Corporate,24067.51,4826.44,0.2,36,2019,7,July 2019,Высокая
+2019-07-01,Technology,Home Office,18991.98,4427.89,0.23,29,2019,7,July 2019,Высокая
+2019-07-01,Furniture,Corporate,12097.22,313.67,0.03,44,2019,7,July 2019,Низкая
+2019-07-01,Furniture,Consumer,11966.24,297.59,0.02,45,2019,7,July 2019,Низкая
+2019-07-01,Office Supplies,Consumer,10183.63,2606.03,0.26,74,2019,7,July 2019,Высокая
+2019-07-01,Furniture,Home Office,9641.07,-150.18,-0.02,37,2019,7,July 2019,Убыточная
+2019-07-01,Office Supplies,Corporate,9482.78,2449.82,0.26,68,2019,7,July 2019,Высокая
+2019-07-01,Office Supplies,Home Office,6119.78,1288.3,0.21,56,2019,7,July 2019,Высокая
+2019-08-01,Office Supplies,Consumer,30478.09,6224.27,0.2,89,2019,8,August 2019,Высокая
+2019-08-01,Office Supplies,Corporate,28599.18,5697.27,0.2,81,2019,8,August 2019,Средняя
+2019-08-01,Technology,Consumer,17254.97,2662.35,0.15,29,2019,8,August 2019,Средняя
+2019-08-01,Office Supplies,Home Office,16382.71,3532.59,0.22,66,2019,8,August 2019,Высокая
+2019-08-01,Furniture,Consumer,15471.63,333.46,0.02,30,2019,8,August 2019,Низкая
+2019-08-01,Technology,Home Office,14831.02,3008.97,0.2,25,2019,8,August 2019,Высокая
+2019-08-01,Furniture,Corporate,14789.18,469.28,0.03,28,2019,8,August 2019,Низкая
+2019-08-01,Technology,Corporate,13589.3,2718.34,0.2,28,2019,8,August 2019,Высокая
+2019-08-01,Furniture,Home Office,8887.64,-104.55,-0.01,20,2019,8,August 2019,Убыточная
+2019-09-01,Office Supplies,Consumer,31413.16,4633.97,0.15,174,2019,9,September 2019,Средняя
+2019-09-01,Office Supplies,Corporate,29328.41,3890.14,0.13,161,2019,9,September 2019,Средняя
+2019-09-01,Furniture,Consumer,28612.36,1728.03,0.06,65,2019,9,September 2019,Низкая
+2019-09-01,Furniture,Corporate,25855.98,1605.23,0.06,62,2019,9,September 2019,Низкая
+2019-09-01,Technology,Corporate,24187.25,3551.07,0.15,58,2019,9,September 2019,Средняя
+2019-09-01,Furniture,Home Office,24091.51,2452.31,0.1,53,2019,9,September 2019,Средняя
+2019-09-01,Technology,Consumer,23715.11,3429.95,0.14,69,2019,9,September 2019,Средняя
+2019-09-01,Technology,Home Office,19952.95,2946.6,0.15,50,2019,9,September 2019,Средняя
+2019-09-01,Office Supplies,Home Office,15675.92,3304.51,0.21,136,2019,9,September 2019,Высокая
+2019-10-01,Technology,Corporate,32242.31,7227.7,0.22,44,2019,10,October 2019,Высокая
+2019-10-01,Technology,Consumer,29077.59,6660.09,0.23,46,2019,10,October 2019,Высокая
+2019-10-01,Technology,Home Office,27168.0,5926.07,0.22,31,2019,10,October 2019,Высокая
+2019-10-01,Office Supplies,Consumer,22219.39,3921.26,0.18,107,2019,10,October 2019,Средняя
+2019-10-01,Furniture,Corporate,20692.29,-2586.38,-0.12,48,2019,10,October 2019,Убыточная
+2019-10-01,Furniture,Consumer,19951.75,-1574.63,-0.08,53,2019,10,October 2019,Убыточная
+2019-10-01,Office Supplies,Home Office,19772.49,3092.11,0.16,92,2019,10,October 2019,Средняя
+2019-10-01,Office Supplies,Corporate,17847.79,4614.73,0.26,94,2019,10,October 2019,Высокая
+2019-10-01,Furniture,Home Office,11958.04,-1410.61,-0.12,33,2019,10,October 2019,Убыточная
+2019-11-01,Technology,Corporate,45496.85,4973.39,0.11,70,2019,11,November 2019,Средняя
+2019-11-01,Technology,Consumer,40988.33,10238.73,0.25,75,2019,11,November 2019,Высокая
+2019-11-01,Furniture,Consumer,35449.92,1012.43,0.03,83,2019,11,November 2019,Низкая
+2019-11-01,Furniture,Corporate,32934.27,313.89,0.01,77,2019,11,November 2019,Низкая
+2019-11-01,Technology,Home Office,30603.72,9250.07,0.3,51,2019,11,November 2019,Высокая
+2019-11-01,Furniture,Home Office,28950.14,217.13,0.01,65,2019,11,November 2019,Низкая
+2019-11-01,Office Supplies,Consumer,28560.35,2817.8,0.1,174,2019,11,November 2019,Низкая
+2019-11-01,Office Supplies,Corporate,26915.6,3125.6,0.12,161,2019,11,November 2019,Средняя
+2019-11-01,Office Supplies,Home Office,25233.8,2037.51,0.08,143,2019,11,November 2019,Низкая
+2019-12-01,Furniture,Consumer,31955.1,1291.7,0.04,83,2019,12,December 2019,Низкая
+2019-12-01,Office Supplies,Consumer,30544.05,1889.45,0.06,168,2019,12,December 2019,Низкая
+2019-12-01,Furniture,Corporate,27218.16,1154.2,0.04,75,2019,12,December 2019,Низкая
+2019-12-01,Office Supplies,Corporate,27066.11,1306.06,0.05,157,2019,12,December 2019,Низкая
+2019-12-01,Technology,Consumer,23980.91,6122.78,0.26,62,2019,12,December 2019,Высокая
+2019-12-01,Office Supplies,Home Office,23037.32,1470.83,0.06,131,2019,12,December 2019,Низкая
+2019-12-01,Furniture,Home Office,20002.59,1445.7,0.07,57,2019,12,December 2019,Низкая
+2019-12-01,Technology,Corporate,18265.5,4911.25,0.27,55,2019,12,December 2019,Высокая
+2019-12-01,Technology,Home Office,17364.66,4813.31,0.28,49,2019,12,December 2019,Высокая
+2021-09-01,Furniture,Consumer,646.43,-182.8,-0.28,1,2021,9,September 2021,Убыточная
+2021-10-01,Office Supplies,Consumer,752.07,-186.86,-0.25,1,2021,10,October 2021,Убыточная
+2021-11-01,Technology,Consumer,847.2,-167.01,-0.2,1,2021,11,November 2021,Убыточная
+2021-11-01,Technology,Home Office,738.55,-76.26,-0.1,1,2021,11,November 2021,Убыточная
+2021-11-01,Furniture,Consumer,649.36,-83.37,-0.13,1,2021,11,November 2021,Убыточная
+2021-11-01,Technology,Corporate,592.71,193.2,0.33,1,2021,11,November 2021,Высокая
+2021-11-01,Office Supplies,Consumer,455.63,-182.38,-0.4,1,2021,11,November 2021,Убыточная
+2021-11-01,Office Supplies,Home Office,116.32,-25.74,-0.22,1,2021,11,November 2021,Убыточная
+2021-11-01,Furniture,Corporate,84.68,26.16,0.31,1,2021,11,November 2021,Высокая
+2021-12-01,Office Supplies,Consumer,1372.69,85.07,0.06,2,2021,12,December 2021,Низкая
+2021-12-01,Office Supplies,Home Office,1001.11,33.46,0.03,2,2021,12,December 2021,Низкая
+2021-12-01,Furniture,Consumer,714.69,-88.81,-0.12,1,2021,12,December 2021,Убыточная
+2021-12-01,Technology,Corporate,464.44,-54.37,-0.12,1,2021,12,December 2021,Убыточная
+2021-12-01,Furniture,Home Office,267.17,12.53,0.05,1,2021,12,December 2021,Низкая
+2021-12-01,Office Supplies,Corporate,154.83,-3.19,-0.02,1,2021,12,December 2021,Убыточная
+2022-01-01,Office Supplies,Consumer,1707.57,-770.41,-0.45,2,2022,1,January 2022,Убыточная
+2022-01-01,Furniture,Corporate,632.81,-127.95,-0.2,1,2022,1,January 2022,Убыточная
+2022-01-01,Office Supplies,Home Office,237.65,67.11,0.28,1,2022,1,January 2022,Высокая
+2022-02-01,Office Supplies,Corporate,493.94,27.17,0.06,2,2022,2,February 2022,Низкая
+2022-02-01,Furniture,Consumer,456.46,-215.26,-0.47,1,2022,2,February 2022,Убыточная
+2022-02-01,Furniture,Home Office,173.58,68.83,0.4,1,2022,2,February 2022,Высокая
+2022-03-01,Furniture,Home Office,1934.59,135.41,0.07,3,2022,3,March 2022,Низкая
+2022-03-01,Office Supplies,Consumer,919.02,11.13,0.01,1,2022,3,March 2022,Низкая
+2022-03-01,Technology,Consumer,522.04,44.66,0.09,1,2022,3,March 2022,Низкая
+2022-03-01,Furniture,Corporate,200.33,31.46,0.16,1,2022,3,March 2022,Средняя
+2022-03-01,Office Supplies,Corporate,186.64,-58.81,-0.32,1,2022,3,March 2022,Убыточная
+2022-04-01,Technology,Home Office,877.75,26.64,0.03,1,2022,4,April 2022,Низкая
+2022-04-01,Office Supplies,Consumer,503.46,189.55,0.38,1,2022,4,April 2022,Высокая
+2022-04-01,Furniture,Consumer,190.24,-15.25,-0.08,1,2022,4,April 2022,Убыточная
+2022-04-01,Furniture,Corporate,100.55,31.53,0.31,1,2022,4,April 2022,Высокая
+2022-05-01,Technology,Corporate,2177.84,41.14,0.02,3,2022,5,May 2022,Низкая
+2022-05-01,Office Supplies,Consumer,648.89,-302.48,-0.47,1,2022,5,May 2022,Убыточная
+2022-05-01,Furniture,Consumer,389.97,99.88,0.26,1,2022,5,May 2022,Высокая
+2022-06-01,Office Supplies,Corporate,1278.01,-535.01,-0.42,2,2022,6,June 2022,Убыточная
+2022-06-01,Furniture,Corporate,992.39,-28.39,-0.03,2,2022,6,June 2022,Убыточная
+2022-06-01,Office Supplies,Home Office,769.0,233.2,0.3,1,2022,6,June 2022,Высокая
+2022-06-01,Office Supplies,Consumer,217.25,-79.65,-0.37,1,2022,6,June 2022,Убыточная
+2022-07-01,Office Supplies,Home Office,784.07,41.06,0.05,1,2022,7,July 2022,Низкая
+2022-07-01,Furniture,Corporate,766.71,73.87,0.1,1,2022,7,July 2022,Низкая
+2022-07-01,Office Supplies,Corporate,700.51,-122.39,-0.17,1,2022,7,July 2022,Убыточная
+2022-07-01,Furniture,Consumer,592.67,-43.39,-0.07,1,2022,7,July 2022,Убыточная
+2022-07-01,Office Supplies,Consumer,209.94,34.16,0.16,1,2022,7,July 2022,Средняя
+2022-08-01,Office Supplies,Home Office,1552.92,50.36,0.03,3,2022,8,August 2022,Низкая
+2022-08-01,Technology,Corporate,1091.55,-354.95,-0.33,2,2022,8,August 2022,Убыточная
+2022-08-01,Furniture,Corporate,901.6,163.55,0.18,2,2022,8,August 2022,Средняя
+2022-08-01,Technology,Consumer,894.64,-57.4,-0.06,1,2022,8,August 2022,Убыточная
+2022-08-01,Furniture,Home Office,847.54,183.1,0.22,1,2022,8,August 2022,Высокая
+2022-08-01,Office Supplies,Corporate,488.87,-74.32,-0.15,2,2022,8,August 2022,Убыточная
+2022-08-01,Furniture,Consumer,285.06,-50.36,-0.18,1,2022,8,August 2022,Убыточная
+2022-08-01,Technology,Home Office,278.18,94.71,0.34,2,2022,8,August 2022,Высокая
+2022-09-01,Office Supplies,Consumer,2003.19,-9.55,-0.0,3,2022,9,September 2022,Убыточная
+2022-09-01,Technology,Consumer,938.76,49.98,0.05,2,2022,9,September 2022,Низкая
+2022-09-01,Furniture,Corporate,900.63,-345.84,-0.38,1,2022,9,September 2022,Убыточная
+2022-09-01,Office Supplies,Corporate,324.36,0.53,0.0,1,2022,9,September 2022,Низкая
+2022-09-01,Office Supplies,Home Office,217.96,66.13,0.3,1,2022,9,September 2022,Высокая
+2022-10-01,Furniture,Home Office,1386.51,-305.73,-0.22,2,2022,10,October 2022,Убыточная
+2022-10-01,Furniture,Corporate,1026.8,194.9,0.19,2,2022,10,October 2022,Средняя
+2022-10-01,Technology,Corporate,570.35,157.93,0.28,1,2022,10,October 2022,Высокая
+2022-10-01,Technology,Home Office,124.59,-1.53,-0.01,1,2022,10,October 2022,Убыточная
+2022-11-01,Furniture,Corporate,1043.5,-467.35,-0.45,2,2022,11,November 2022,Убыточная
+2022-11-01,Technology,Home Office,631.96,194.71,0.31,1,2022,11,November 2022,Высокая
+2022-12-01,Office Supplies,Corporate,944.43,-341.12,-0.36,1,2022,12,December 2022,Убыточная
+2022-12-01,Office Supplies,Consumer,792.79,130.86,0.17,1,2022,12,December 2022,Средняя
+2022-12-01,Office Supplies,Home Office,265.0,-41.44,-0.16,1,2022,12,December 2022,Убыточная
+2023-01-01,Office Supplies,Consumer,921.95,-23.44,-0.03,1,2023,1,January 2023,Убыточная
+2023-01-01,Furniture,Consumer,404.96,25.03,0.06,1,2023,1,January 2023,Низкая
+2023-01-01,Office Supplies,Home Office,293.47,89.15,0.3,1,2023,1,January 2023,Высокая
+2023-02-01,Furniture,Consumer,1274.96,145.55,0.11,2,2023,2,February 2023,Средняя
+2023-02-01,Office Supplies,Consumer,1217.38,-176.49,-0.14,2,2023,2,February 2023,Убыточная
+2023-02-01,Technology,Corporate,987.16,-13.75,-0.01,2,2023,2,February 2023,Убыточная
+2023-02-01,Furniture,Home Office,698.35,23.63,0.03,1,2023,2,February 2023,Низкая
+2023-02-01,Office Supplies,Corporate,628.83,174.38,0.28,1,2023,2,February 2023,Высокая
+2023-02-01,Technology,Home Office,543.38,-108.58,-0.2,1,2023,2,February 2023,Убыточная
+2023-03-01,Technology,Corporate,1251.52,171.65,0.14,2,2023,3,March 2023,Средняя
+2023-03-01,Technology,Home Office,1219.81,195.53,0.16,2,2023,3,March 2023,Средняя
+2023-03-01,Office Supplies,Corporate,767.48,-368.6,-0.48,1,2023,3,March 2023,Убыточная
+2023-03-01,Furniture,Corporate,321.87,-29.79,-0.09,1,2023,3,March 2023,Убыточная
+2023-04-01,Furniture,Home Office,2053.2,-377.76,-0.18,3,2023,4,April 2023,Убыточная
+2023-04-01,Technology,Corporate,822.46,-278.41,-0.34,1,2023,4,April 2023,Убыточная
+2023-04-01,Office Supplies,Corporate,739.42,275.53,0.37,1,2023,4,April 2023,Высокая
+2023-04-01,Furniture,Corporate,90.85,-16.0,-0.18,1,2023,4,April 2023,Убыточная
+2023-05-01,Technology,Home Office,1967.28,231.49,0.12,3,2023,5,May 2023,Средняя
+2023-05-01,Furniture,Corporate,1793.84,-271.08,-0.15,3,2023,5,May 2023,Убыточная
+2023-05-01,Office Supplies,Home Office,1307.35,-184.84,-0.14,2,2023,5,May 2023,Убыточная
+2023-05-01,Furniture,Consumer,869.87,-219.24,-0.25,1,2023,5,May 2023,Убыточная
+2023-05-01,Office Supplies,Consumer,774.99,306.84,0.4,1,2023,5,May 2023,Высокая
+2023-05-01,Furniture,Home Office,622.11,-228.29,-0.37,1,2023,5,May 2023,Убыточная
+2023-05-01,Office Supplies,Corporate,323.29,-116.45,-0.36,1,2023,5,May 2023,Убыточная
+2023-05-01,Technology,Corporate,307.9,-69.87,-0.23,1,2023,5,May 2023,Убыточная
+2023-05-01,Technology,Consumer,244.28,-121.48,-0.5,1,2023,5,May 2023,Убыточная
+2023-06-01,Technology,Home Office,1631.88,-123.94,-0.08,2,2023,6,June 2023,Убыточная
+2023-06-01,Furniture,Home Office,775.86,-269.31,-0.35,1,2023,6,June 2023,Убыточная
+2023-06-01,Furniture,Consumer,397.23,119.88,0.3,2,2023,6,June 2023,Высокая
+2023-06-01,Technology,Corporate,329.48,-22.93,-0.07,1,2023,6,June 2023,Убыточная
+2023-06-01,Office Supplies,Corporate,168.98,-30.93,-0.18,1,2023,6,June 2023,Убыточная
+2023-07-01,Office Supplies,Home Office,621.17,-259.35,-0.42,1,2023,7,July 2023,Убыточная
+2023-07-01,Furniture,Consumer,424.17,-161.17,-0.38,1,2023,7,July 2023,Убыточная
+2023-07-01,Technology,Corporate,286.47,-101.24,-0.35,1,2023,7,July 2023,Убыточная
+2023-08-01,Office Supplies,Corporate,1275.14,204.51,0.16,2,2023,8,August 2023,Средняя
+2023-08-01,Technology,Consumer,980.26,329.53,0.34,1,2023,8,August 2023,Высокая
+2023-08-01,Technology,Corporate,524.69,16.24,0.03,1,2023,8,August 2023,Низкая
+2023-08-01,Technology,Home Office,351.85,-121.61,-0.35,1,2023,8,August 2023,Убыточная
+2023-08-01,Furniture,Consumer,181.7,41.51,0.23,1,2023,8,August 2023,Высокая
+2023-08-01,Furniture,Corporate,167.33,-7.08,-0.04,2,2023,8,August 2023,Убыточная
+2023-08-01,Office Supplies,Home Office,147.3,15.19,0.1,1,2023,8,August 2023,Средняя
+2023-09-01,Technology,Home Office,859.44,273.14,0.32,1,2023,9,September 2023,Высокая
+2023-09-01,Technology,Consumer,755.22,-101.46,-0.13,1,2023,9,September 2023,Убыточная
+2023-10-01,Office Supplies,Corporate,1559.2,202.2,0.13,2,2023,10,October 2023,Средняя
+2023-10-01,Technology,Home Office,982.7,-182.7,-0.19,2,2023,10,October 2023,Убыточная
+2023-10-01,Furniture,Corporate,564.05,-131.2,-0.23,1,2023,10,October 2023,Убыточная
+2023-10-01,Furniture,Home Office,344.57,44.69,0.13,2,2023,10,October 2023,Средняя
+2023-10-01,Technology,Corporate,261.39,51.82,0.2,1,2023,10,October 2023,Средняя
+2023-10-01,Furniture,Consumer,82.99,-2.99,-0.04,1,2023,10,October 2023,Убыточная
+2023-11-01,Technology,Consumer,966.99,200.94,0.21,1,2023,11,November 2023,Высокая
+2023-11-01,Technology,Home Office,802.32,195.68,0.24,1,2023,11,November 2023,Высокая
+2023-11-01,Furniture,Consumer,726.64,-328.85,-0.45,1,2023,11,November 2023,Убыточная
+2023-12-01,Technology,Home Office,1540.83,138.36,0.09,2,2023,12,December 2023,Низкая
+2023-12-01,Furniture,Home Office,599.14,-30.65,-0.05,1,2023,12,December 2023,Убыточная
+2023-12-01,Technology,Corporate,171.31,61.94,0.36,1,2023,12,December 2023,Высокая
+2024-01-01,Office Supplies,Home Office,604.92,-65.32,-0.11,1,2024,1,January 2024,Убыточная
+2024-01-01,Technology,Consumer,568.71,-173.26,-0.3,1,2024,1,January 2024,Убыточная
+2024-01-01,Furniture,Corporate,556.16,-140.05,-0.25,1,2024,1,January 2024,Убыточная
+2024-01-01,Furniture,Home Office,428.1,131.12,0.31,1,2024,1,January 2024,Высокая
+2024-01-01,Furniture,Consumer,173.1,-52.77,-0.3,1,2024,1,January 2024,Убыточная
+2024-02-01,Furniture,Consumer,960.48,146.49,0.15,1,2024,2,February 2024,Средняя
+2024-02-01,Technology,Consumer,888.83,45.7,0.05,1,2024,2,February 2024,Низкая
+2024-02-01,Technology,Home Office,542.64,-121.55,-0.22,1,2024,2,February 2024,Убыточная
+2024-02-01,Office Supplies,Corporate,441.26,153.44,0.35,1,2024,2,February 2024,Высокая
+2024-02-01,Office Supplies,Consumer,291.28,-97.94,-0.34,1,2024,2,February 2024,Убыточная
+2024-02-01,Furniture,Home Office,123.3,8.75,0.07,1,2024,2,February 2024,Низкая
+2024-03-01,Office Supplies,Corporate,1037.84,-307.52,-0.3,2,2024,3,March 2024,Убыточная
+2024-03-01,Furniture,Corporate,860.35,215.46,0.25,1,2024,3,March 2024,Высокая
+2024-03-01,Technology,Corporate,602.33,-61.69,-0.1,2,2024,3,March 2024,Убыточная
+2024-03-01,Office Supplies,Home Office,460.92,-162.92,-0.35,1,2024,3,March 2024,Убыточная
+2024-03-01,Technology,Home Office,373.27,-124.85,-0.33,1,2024,3,March 2024,Убыточная
+2024-03-01,Furniture,Home Office,278.68,-80.72,-0.29,2,2024,3,March 2024,Убыточная
+2024-03-01,Office Supplies,Consumer,96.32,11.26,0.12,1,2024,3,March 2024,Средняя
+2024-04-01,Technology,Consumer,2270.17,-829.3,-0.37,4,2024,4,April 2024,Убыточная
+2024-04-01,Technology,Corporate,1626.75,158.0,0.1,4,2024,4,April 2024,Низкая
+2024-04-01,Office Supplies,Consumer,1251.58,-436.32,-0.35,2,2024,4,April 2024,Убыточная
+2024-04-01,Furniture,Consumer,1101.9,-179.44,-0.16,2,2024,4,April 2024,Убыточная
+2024-04-01,Furniture,Corporate,695.12,-215.28,-0.31,1,2024,4,April 2024,Убыточная
+2024-04-01,Office Supplies,Home Office,629.8,-132.39,-0.21,2,2024,4,April 2024,Убыточная
+2024-05-01,Furniture,Home Office,1750.26,-234.07,-0.13,4,2024,5,May 2024,Убыточная
+2024-05-01,Technology,Home Office,1114.42,-310.81,-0.28,2,2024,5,May 2024,Убыточная
+2024-05-01,Furniture,Consumer,214.69,-5.35,-0.02,2,2024,5,May 2024,Убыточная
+2024-06-01,Furniture,Home Office,1061.81,-178.72,-0.17,2,2024,6,June 2024,Убыточная
+2024-06-01,Technology,Corporate,780.85,10.79,0.01,1,2024,6,June 2024,Низкая
+2024-06-01,Office Supplies,Home Office,744.68,254.78,0.34,1,2024,6,June 2024,Высокая
+2024-06-01,Furniture,Consumer,695.36,77.06,0.11,2,2024,6,June 2024,Средняя
+2024-06-01,Office Supplies,Consumer,436.14,-116.22,-0.27,1,2024,6,June 2024,Убыточная
+2024-07-01,Technology,Consumer,909.03,-420.26,-0.46,1,2024,7,July 2024,Убыточная
+2024-07-01,Furniture,Corporate,353.79,-151.5,-0.43,1,2024,7,July 2024,Убыточная
+2024-07-01,Technology,Home Office,74.77,-20.93,-0.28,1,2024,7,July 2024,Убыточная
+2024-08-01,Furniture,Corporate,2104.84,-184.75,-0.09,3,2024,8,August 2024,Убыточная
+2024-08-01,Technology,Corporate,1630.41,6.3,0.0,3,2024,8,August 2024,Низкая
+2024-08-01,Office Supplies,Corporate,1309.08,-209.29,-0.16,3,2024,8,August 2024,Убыточная
+2024-08-01,Technology,Consumer,916.05,-215.0,-0.23,1,2024,8,August 2024,Убыточная
+2024-08-01,Furniture,Consumer,86.36,-5.22,-0.06,1,2024,8,August 2024,Убыточная
+2024-09-01,Furniture,Home Office,1171.97,154.91,0.13,2,2024,9,September 2024,Средняя
+2024-09-01,Technology,Consumer,875.5,-146.24,-0.17,1,2024,9,September 2024,Убыточная
+2024-09-01,Office Supplies,Corporate,791.1,-83.31,-0.11,3,2024,9,September 2024,Убыточная
+2024-09-01,Office Supplies,Consumer,594.0,-261.13,-0.44,1,2024,9,September 2024,Убыточная
+2024-09-01,Furniture,Corporate,347.02,-44.49,-0.13,1,2024,9,September 2024,Убыточная
+2024-10-01,Technology,Consumer,1830.67,-260.37,-0.14,3,2024,10,October 2024,Убыточная
+2024-10-01,Technology,Home Office,1353.49,-8.75,-0.01,2,2024,10,October 2024,Убыточная
+2024-10-01,Office Supplies,Home Office,1275.28,471.45,0.37,2,2024,10,October 2024,Высокая
+2024-10-01,Furniture,Home Office,902.26,-69.25,-0.08,2,2024,10,October 2024,Убыточная
+2024-11-01,Office Supplies,Consumer,2159.48,27.65,0.01,3,2024,11,November 2024,Низкая
+2024-11-01,Office Supplies,Corporate,911.87,-196.22,-0.22,2,2024,11,November 2024,Убыточная
+2024-11-01,Furniture,Consumer,210.32,-70.74,-0.34,1,2024,11,November 2024,Убыточная
+2024-11-01,Technology,Home Office,58.74,-12.86,-0.22,1,2024,11,November 2024,Убыточная
+2024-11-01,Technology,Corporate,41.47,1.58,0.04,1,2024,11,November 2024,Низкая
+2024-12-01,Furniture,Home Office,771.77,86.69,0.11,1,2024,12,December 2024,Средняя
+2024-12-01,Office Supplies,Consumer,202.76,6.48,0.03,1,2024,12,December 2024,Низкая
+2024-12-01,Furniture,Corporate,188.75,-54.25,-0.29,1,2024,12,December 2024,Убыточная
+2025-01-01,Technology,Corporate,2473.5,-198.26,-0.08,4,2025,1,January 2025,Убыточная
+2025-01-01,Office Supplies,Consumer,928.56,63.3,0.07,1,2025,1,January 2025,Низкая
+2025-01-01,Office Supplies,Home Office,718.25,98.29,0.14,1,2025,1,January 2025,Средняя
+2025-01-01,Technology,Consumer,445.12,10.93,0.02,1,2025,1,January 2025,Низкая
+2025-01-01,Technology,Home Office,122.32,-31.53,-0.26,1,2025,1,January 2025,Убыточная
+2025-01-01,Office Supplies,Corporate,117.19,-37.72,-0.32,1,2025,1,January 2025,Убыточная
+2025-02-01,Furniture,Consumer,653.14,178.77,0.27,1,2025,2,February 2025,Высокая
+2025-02-01,Technology,Corporate,504.23,7.3,0.01,1,2025,2,February 2025,Низкая
+2025-02-01,Furniture,Corporate,153.27,-25.08,-0.16,1,2025,2,February 2025,Убыточная
+2025-03-01,Office Supplies,Consumer,708.5,159.67,0.23,1,2025,3,March 2025,Высокая
+2025-03-01,Technology,Consumer,519.89,-17.32,-0.03,1,2025,3,March 2025,Убыточная
+2025-03-01,Office Supplies,Home Office,296.46,81.94,0.28,1,2025,3,March 2025,Высокая
+2025-04-01,Furniture,Home Office,997.03,107.8,0.11,1,2025,4,April 2025,Средняя
+2025-04-01,Furniture,Corporate,910.31,-401.56,-0.44,1,2025,4,April 2025,Убыточная
+2025-04-01,Office Supplies,Consumer,430.64,99.38,0.23,1,2025,4,April 2025,Высокая
+2025-04-01,Technology,Consumer,178.14,17.15,0.1,1,2025,4,April 2025,Низкая
+2025-04-01,Technology,Corporate,26.63,-10.13,-0.38,1,2025,4,April 2025,Убыточная
+2025-05-01,Furniture,Corporate,657.73,-5.11,-0.01,1,2025,5,May 2025,Убыточная
+2025-05-01,Office Supplies,Home Office,495.41,29.98,0.06,1,2025,5,May 2025,Низкая
+2025-05-01,Furniture,Consumer,260.7,-18.13,-0.07,1,2025,5,May 2025,Убыточная
+2025-06-01,Technology,Home Office,1150.35,-406.5,-0.35,3,2025,6,June 2025,Убыточная
+2025-06-01,Furniture,Consumer,633.78,-126.06,-0.2,2,2025,6,June 2025,Убыточная
+2025-06-01,Office Supplies,Corporate,429.71,154.7,0.36,1,2025,6,June 2025,Высокая
+2025-06-01,Furniture,Corporate,393.5,-99.33,-0.25,2,2025,6,June 2025,Убыточная
+2025-06-01,Office Supplies,Home Office,92.87,-46.26,-0.5,1,2025,6,June 2025,Убыточная
+2025-07-01,Office Supplies,Consumer,943.11,-358.24,-0.38,2,2025,7,July 2025,Убыточная
+2025-07-01,Technology,Consumer,510.88,-238.84,-0.47,2,2025,7,July 2025,Убыточная
+2025-07-01,Furniture,Home Office,470.06,154.71,0.33,1,2025,7,July 2025,Высокая
+2025-07-01,Technology,Corporate,185.73,22.68,0.12,1,2025,7,July 2025,Средняя
+2025-08-01,Office Supplies,Corporate,613.83,136.15,0.22,1,2025,8,August 2025,Высокая
+2025-08-01,Office Supplies,Consumer,549.97,214.94,0.39,1,2025,8,August 2025,Высокая
+2025-08-01,Technology,Corporate,539.21,-17.79,-0.03,1,2025,8,August 2025,Убыточная
+2025-09-01,Technology,Home Office,729.04,-33.04,-0.05,1,2025,9,September 2025,Убыточная
+2025-09-01,Furniture,Consumer,666.39,224.77,0.34,1,2025,9,September 2025,Высокая
+2025-09-01,Furniture,Home Office,224.99,-65.4,-0.29,1,2025,9,September 2025,Убыточная
+2025-09-01,Technology,Consumer,171.49,-14.56,-0.08,1,2025,9,September 2025,Убыточная
+2025-09-01,Office Supplies,Corporate,32.6,-0.92,-0.03,1,2025,9,September 2025,Убыточная
