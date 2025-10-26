@@ -1,0 +1,5 @@
+ExperienceLevel,Apache Kafka,Apache Flink,Apache Spark,Apache Storm,Apache Pulsar,Amazon Kinesis,Google Cloud Pub/Sub,Azure Stream Analytics,RabbitMQ,Redis,Apache NiFi,Apache Beam,Confluent Cloud,AWS MSK,Google Dataflow,Apache Samza,Amazon MSK,Azure Event Hubs,AWS Lambda
+Junior (0-2 years),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.3401759530791795,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mid (3-6 years),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.72891907187323,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Not specified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8002613098154499,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Senior (7+ years),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.5759780290414,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,17 @@
+CountryGroup,Apache Kafka,Apache Flink,Apache Spark,Apache Storm,Apache Pulsar,Amazon Kinesis,Google Cloud Pub/Sub,Azure Stream Analytics,RabbitMQ,Redis,Apache NiFi,Apache Beam,Confluent Cloud,AWS MSK,Google Dataflow,Apache Samza,Amazon MSK,Azure Event Hubs,AWS Lambda,Total_Respondents
+Australia,0,0,0,0,0,0,0,0,0,163,0,0,0,0,0,0,0,0,0,803
+Brazil,0,0,0,0,0,0,0,0,0,210,0,0,0,0,0,0,0,0,0,824
+Canada,0,0,0,0,0,0,0,0,0,270,0,0,0,0,0,0,0,0,0,1303
+France,0,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0,0,0,0,1409
+Germany,0,0,0,0,0,0,0,0,0,564,0,0,0,0,0,0,0,0,0,3022
+India,0,0,0,0,0,0,0,0,0,456,0,0,0,0,0,0,0,0,0,2542
+Italy,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0,834
+Netherlands,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,867
+Not specified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13721
+Other,0,0,0,0,0,0,0,0,0,2378,0,0,0,0,0,0,0,0,0,11350
+Poland,0,0,0,0,0,0,0,0,0,201,0,0,0,0,0,0,0,0,0,887
+Spain,0,0,0,0,0,0,0,0,0,166,0,0,0,0,0,0,0,0,0,717
+Sweden,0,0,0,0,0,0,0,0,0,107,0,0,0,0,0,0,0,0,0,616
+Ukraine,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0,0,964
+United Kingdom of Great Britain and Northern Ireland,0,0,0,0,0,0,0,0,0,376,0,0,0,0,0,0,0,0,0,2038
+United States of America,0,0,0,0,0,0,0,0,0,1490,0,0,0,0,0,0,0,0,0,7226

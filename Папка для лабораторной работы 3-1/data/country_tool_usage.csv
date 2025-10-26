@@ -1,0 +1,17 @@
+CountryGroup,Apache Kafka,Apache Flink,Apache Spark,Apache Storm,Apache Pulsar,Amazon Kinesis,Google Cloud Pub/Sub,Azure Stream Analytics,RabbitMQ,Redis,Apache NiFi,Apache Beam,Confluent Cloud,AWS MSK,Google Dataflow,Apache Samza,Amazon MSK,Azure Event Hubs,AWS Lambda
+Australia,0,0,0,0,0,0,0,0,0,163,0,0,0,0,0,0,0,0,0
+Brazil,0,0,0,0,0,0,0,0,0,210,0,0,0,0,0,0,0,0,0
+Canada,0,0,0,0,0,0,0,0,0,270,0,0,0,0,0,0,0,0,0
+France,0,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0,0,0,0
+Germany,0,0,0,0,0,0,0,0,0,564,0,0,0,0,0,0,0,0,0
+India,0,0,0,0,0,0,0,0,0,456,0,0,0,0,0,0,0,0,0
+Italy,0,0,0,0,0,0,0,0,0,159,0,0,0,0,0,0,0,0,0
+Netherlands,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0
+Not specified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,0,0,0,0,0,0,0,0,0,2378,0,0,0,0,0,0,0,0,0
+Poland,0,0,0,0,0,0,0,0,0,201,0,0,0,0,0,0,0,0,0
+Spain,0,0,0,0,0,0,0,0,0,166,0,0,0,0,0,0,0,0,0
+Sweden,0,0,0,0,0,0,0,0,0,107,0,0,0,0,0,0,0,0,0
+Ukraine,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0,0
+United Kingdom of Great Britain and Northern Ireland,0,0,0,0,0,0,0,0,0,376,0,0,0,0,0,0,0,0,0
+United States of America,0,0,0,0,0,0,0,0,0,1490,0,0,0,0,0,0,0,0,0
